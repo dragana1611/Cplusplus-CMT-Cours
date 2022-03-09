@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517917176 source:g:\stari disk\gaga\itbootcamp_sve\cmt\c++\cas3\domaci-zadatak-cas3old\pravougaonik\main.cpp
+	"Pravougaonik.hpp"
+
+1635537965 g:\stari disk\gaga\itbootcamp_sve\cmt\c++\cas3\domaci-zadatak-cas3old\pravougaonik\pravougaonik.hpp
+	<iostream>
+
+1635538123 source:g:\stari disk\gaga\itbootcamp_sve\cmt\c++\cas3\domaci-zadatak-cas3old\pravougaonik\pravougaonik.cpp
+	"Pravougaonik.hpp"
+

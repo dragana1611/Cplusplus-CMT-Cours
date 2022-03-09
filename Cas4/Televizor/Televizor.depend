@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635547718 source:g:\stari disk\gaga\itbootcamp_sve\cmt\c++\cas4\televizor\televizor.cpp
+	"Televizor.hpp"
+
+1635545219 g:\stari disk\gaga\itbootcamp_sve\cmt\c++\cas4\televizor\televizor.hpp
+	<iostream>
+
