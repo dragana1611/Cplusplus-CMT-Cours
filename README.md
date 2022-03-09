@@ -1,4 +1,4 @@
-# Cplusplus-CMT-Cours
+# Cplusplus-CMT-Course
 C++
 
 
